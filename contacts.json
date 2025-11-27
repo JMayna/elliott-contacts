@@ -8,6 +8,15 @@
     "cellPhone": "555-123-4567",
     "workPhone": "555-234-5678",
     "email": "jeff.thacker@elliottco.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Jordan",
+    "lastName": "Maynard",
+    "company": "The Elliott Companies",
+    "title": "Code Monkey",
+    "cellPhone": "555-123-4567",
+    "workPhone": "555-234-5678",
+    "email": "jordan.maynard@elliottco.com"
   }
-  
 ]
