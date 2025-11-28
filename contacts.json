@@ -7,16 +7,16 @@
     "title": "Locksmith",
     "cellPhone": "555-123-4567",
     "workPhone": "555-234-5678",
-    "email": "jeff.thacker@elliottco.com"
+    "email": "JeffT@ellcoky.com"
   },
   {
     "id": 2,
     "firstName": "Jordan",
     "lastName": "Maynard",
-    "company": "The Elliott Companies",
+    "company": "Blue Tie Productions",
     "title": "Code Monkey",
-    "cellPhone": "555-123-4567",
-    "workPhone": "555-234-5678",
+    "cellPhone": "606-616-9832",
+    "workPhone": "606-616-9832",
     "email": "jordan.maynard@elliottco.com"
   }
 ]
