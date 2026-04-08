@@ -5,38 +5,18 @@
     "lastName": "Thacker",
     "company": "The Elliott Companies",
     "title": "Locksmith",
-    "cellPhone": "555-123-4567",
-    "workPhone": "555-234-5678",
+    "cellPhone": "",
+    "workPhone": "",
     "email": "JeffT@ellcoky.com"
   },
   {
     "id": 2,
     "firstName": "Jordan",
     "lastName": "Maynard",
-    "company": "Blue Tie Productions",
-    "title": "Code Monkey",
+    "company": "",
+    "title": "",
     "cellPhone": "",
     "workPhone": "",
     "email": "j.maynard.20122@gmail.com"
-  },
-  {
-    "id": 3,
-    "firstName": "Cookie",
-    "lastName": "Monster",
-    "company": "Cookie Construction",
-    "title": "Chief Cookie Eater",
-    "cellPhone": "555-555-5555",
-    "workPhone": "555-555-5555",
-    "email": "big@cookie.com"
-  },
-  {
-    "id": 4,
-    "firstName": "Oscar",
-    "lastName": "Grouch",
-    "company": "Trash & Demo LLC",
-    "title": "Demolition Specialist",
-    "cellPhone": "555-0103",
-    "workPhone": "555-1103",
-    "email": "oscar.grouch@trashdemo.com"
   },
 ]
