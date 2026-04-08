@@ -29,4 +29,14 @@
     "workPhone": "555-555-5555",
     "email": "big@cookie.com"
   },
+  {
+    "id": 4,
+    "firstName": "Oscar",
+    "lastName": "Grouch",
+    "company": "Trash & Demo LLC",
+    "title": "Demolition Specialist",
+    "cellPhone": "555-0103",
+    "workPhone": "555-1103",
+    "email": "oscar.grouch@trashdemo.com"
+  },
 ]
