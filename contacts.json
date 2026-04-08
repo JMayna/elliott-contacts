@@ -1,122 +1,24 @@
-[
-  {
-    "id": 1,
-    "firstName": "J",
-    "lastName": "Tr",
-    "company": "The Elliott Companies",
-    "title": "Locksmith",
-    "cellPhone": "555-123-4567",
-    "workPhone": "555-234-5678",
-    "email": "JeffT@ellcoky.com"
-  },
-  {
-    "id": 2,
-    "firstName": "Jordan",
-    "lastName": "Maynard",
-    "company": "Blue Tie Productions",
-    "title": "Code Monkey",
-    "cellPhone": "",
-    "workPhone": "",
-    "email": "j.maynard.20122@gmail.com"
-  },
-  {
-    "id": 3,
-    "firstName": "Bob",
-    "lastName": "Builder",
-    "company": "Sesame Construction Co.",
-    "title": "Site Foreman",
-    "cellPhone": "555-0101",
-    "workPhone": "555-1101",
-    "email": "bob.builder@sesameco.com"
-  },
-  {
-    "id": 4,
-    "firstName": "Elmo",
-    "lastName": "Red",
-    "company": "Sesame Construction Co.",
-    "title": "Safety Inspector",
-    "cellPhone": "555-0102",
-    "workPhone": "555-1102",
-    "email": "elmo.red@sesameco.com"
-  },
-  {
-    "id": 5,
-    "firstName": "Oscar",
-    "lastName": "Grouch",
-    "company": "Trash & Demo LLC",
-    "title": "Demolition Specialist",
-    "cellPhone": "555-0103",
-    "workPhone": "555-1103",
-    "email": "oscar.grouch@trashdemo.com"
-  },
-  {
-    "id": 6,
-    "firstName": "Big",
-    "lastName": "Bird",
-    "company": "Skyline Structures",
-    "title": "Crane Operator",
-    "cellPhone": "555-0104",
-    "workPhone": "555-1104",
-    "email": "big.bird@skylinestructures.com"
-  },
-  {
-    "id": 7,
-    "firstName": "Cookie",
-    "lastName": "Monster",
-    "company": "Concrete & Cookies Inc.",
-    "title": "Concrete Finisher",
-    "cellPhone": "555-0105",
-    "workPhone": "555-1105",
-    "email": "cookie.monster@concretecookies.com"
-  },
-  {
-    "id": 8,
-    "firstName": "Bert",
-    "lastName": "Yellow",
-    "company": "Precision Plumbing Co.",
-    "title": "Pipe Fitter",
-    "cellPhone": "555-0106",
-    "workPhone": "555-1106",
-    "email": "bert.yellow@precisionplumbing.com"
-  },
-  {
-    "id": 9,
-    "firstName": "Ernie",
-    "lastName": "Orange",
-    "company": "Precision Plumbing Co.",
-    "title": "Apprentice Plumber",
-    "cellPhone": "555-0107",
-    "workPhone": "555-1107",
-    "email": "ernie.orange@precisionplumbing.com"
-  },
-  {
-    "id": 10,
-    "firstName": "Abby",
-    "lastName": "Cadabby",
-    "company": "Magic Electric LLC",
-    "title": "Electrician",
-    "cellPhone": "555-0108",
-    "workPhone": "555-1108",
-    "email": "abby.cadabby@magicelectric.com"
-  },
-  {
-    "id": 11,
-    "firstName": "Grover",
-    "lastName": "Blue",
-    "company": "SuperBuild Services",
-    "title": "General Laborer",
-    "cellPhone": "555-0109",
-    "workPhone": "555-1109",
-    "email": "grover.blue@superbuild.com"
-  },
-  {
-    "id": 12,
-    "firstName": "Count",
-    "lastName": "VonCount",
-    "company": "Accurate Estimating Inc.",
-    "title": "Project Estimator",
-    "cellPhone": "555-0110",
-    "workPhone": "555-1110",
-    "email": "count.voncount@accurateestimating.com"
-  }
-]
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "J",
+      "lastName": "Tr",
+      "company": "The Elliott Companies",
+      "title": "Locksmith",
+      "cellPhone": "555-123-4567",
+      "workPhone": "555-234-5678",
+      "email": "JeffT@ellcoky.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Jordan",
+      "lastName": "Maynard",
+      "company": "Blue Tie Productions",
+      "title": "Code Monkey",
+      "cellPhone": "",
+      "workPhone": "",
+      "email": "j.maynard.20122@gmail.com"
+    }
+  ]
+}
