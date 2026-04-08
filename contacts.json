@@ -1,24 +1,22 @@
-{
-  "contacts": [
-    {
-      "id": 1,
-      "firstName": "J",
-      "lastName": "Tr",
-      "company": "The Elliott Companies",
-      "title": "Locksmith",
-      "cellPhone": "555-123-4567",
-      "workPhone": "555-234-5678",
-      "email": "JeffT@ellcoky.com"
-    },
-    {
-      "id": 2,
-      "firstName": "Jordan",
-      "lastName": "Maynard",
-      "company": "Blue Tie Productions",
-      "title": "Code Monkey",
-      "cellPhone": "",
-      "workPhone": "",
-      "email": "j.maynard.20122@gmail.com"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "firstName": "Jeff",
+    "lastName": "Thacker",
+    "company": "The Elliott Companies",
+    "title": "Locksmith",
+    "cellPhone": "555-123-4567",
+    "workPhone": "555-234-5678",
+    "email": "JeffT@ellcoky.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Jordan",
+    "lastName": "Maynard",
+    "company": "Blue Tie Productions",
+    "title": "Code Monkey",
+    "cellPhone": "",
+    "workPhone": "",
+    "email": "j.maynard.20122@gmail.com"
+  }
+]
